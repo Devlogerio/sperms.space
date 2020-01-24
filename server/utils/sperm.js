@@ -27,7 +27,7 @@ class Sperm extends Entity {
         this.howManyAte = 0;
         this.hp = 100;
         this.isDead = false;
-        this.enterAmount = 110;
+        this.enterAmount = 200;
         this.isRaceEnd = false;
         // this.inRace = false;
         //this.velocityMaxLimit = 15;
