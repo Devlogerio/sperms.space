@@ -21,6 +21,10 @@ Open the page on localhost://port (the port is 3000)
 ## About the versions:
 Every single change is submitted and documented as files and backups on my backup hard drives, If you have any request or question about previus versions of this game or any other of my fames, you should call me, I am unable to document every single of my changes on github so everything is backed up other places and only thefinal version/versions is here.
 
+## About the versions:
+Every single change is submitted and documented as files and backups on my backup hard drives, If you have any request or question about previus versions of this game or any other of my fames, you should call me, I am unable to document every single of my changes on github so everything is backed up other places and only thefinal version/versions is here.
+<I have the code from empty to full final version as files!>
+
 ## Reason of being open source
 Github private repository is forbidden in my country so I decided to make all of my games open source for public
 
