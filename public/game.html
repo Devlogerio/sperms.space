@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Chat | ChatApp</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+</head>
+
+<style>
+    /* remove the border */
+    body {
+      border: 0;
+      margin: 0;
+      overflow: hidden;
+    }
+</style>
+
+<body style="user-select: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;" oncontextmenu="return false">
+    <div id="afterDeathDiv" style="width: 100%; height: 100%; background-color: rgba(228, 201, 195, 0.5); position: fixed; margin: auto auto; left: 0; right: 0; top: 0; bottom: 0; display: none; z-index: 1000;">
+        <button style="
+            outline: none;
+            background-color: #A4404A; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 6vh;
+            width: 20%;
+            height: 10%;
+            margin-left: 40vw;
+            margin-top: 45vh;
+        " onclick="window.location.href = '/index.html';">Reset</button>
+    </div>
+    <div id="infoDiv" style="width: 50%; height: 20%; background-color: rgba(83, 8, 180, 0.5); position: fixed; left: 25%; top: 20%; display: none; z-index: 2000; text-align: center; color: white; font-size: 5vh; font-weight: bolder;"></div>
+    <div id="raceEndDiv" style="width: 100%; height: 100%; background-color: rgba(255, 105, 180, 0.5); position: fixed; margin: auto auto; left: 0; right: 0; top: 0; bottom: 0; display: none; z-index: 1000;">
+        <button style="
+            outline: none;
+            background-color: #A4404A; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 6vh;
+            width: 20%;
+            height: 10%;
+            margin-left: 40vw;
+            margin-top: 45vh;
+        " onclick="window.location.href = '/index.html';">Reset</button>
+    </div>
+    <div id="hpDiv" style="bottom: 0; left: 0; right: 0; margin: 0 auto; position: fixed; width: 25%; height: 8vh; background-color: rgba(228, 201, 195, 0.5); border-radius: 2vh 2vh 0 0; text-align: center; font-size: 3vh; font-weight: bolder;">50/200</div>
+    <!--If you want offline library -->
+    <!-- <script type="text/javascript" src="libraries/p5.dom.js"></script>
+    <script type="text/javascript" src="libraries/p5.js"></script> -->
+    <!-- Order of these js files matter -->
+    <script src="https://cdn.jsdelivr.net/npm/p5@0.10.2/lib/p5.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/js/libs/moment.js"></script>
+    <script src="/js/libs/jquery-3.3.1.min.js"></script>
+    <script src="/js/libs/deparam.js"></script>
+    <script src="/js/sperm.js"></script>
+    <script src="/js/jammer.js"></script>
+    <script src="/js/hammer.js"></script>
+    <script src="/js/killer.js"></script>
+    <script src="/js/food.js"></script>
+    <script src="/js/sticky.js"></script>
+    <script src="/js/egg.js"></script>
+    <script src="/js/vagina.js"></script>
+    <script src="/js/sketch.js"></script>
+</body>
+
+</html>
