@@ -8,8 +8,13 @@ Enter your name and the name of baby you want and hit play, you will start with 
 This game is made by Nodejs/Javascript/Socket.io/HTML5/P5js/Victorjs/WEBGL?Mongodb, This is a 3d game working made to compete with newer and more advance .io game genre, mostly with 3d .io games.
 NOTE: Mongodb is the database but its been commented due to the easy to use of the code for the others, the Leaderboard for the game will be up and running as soon as possible.
 
-## More games like this:
+## More of my games like this:
 #http://pury.space
+#http://ufowars.space
+#http://sperms.space
+#http://kalamebaz.space
+#http://cyberbugs.space
+#http://aliens.website
 
 ## How to run:
 Install nodejs
