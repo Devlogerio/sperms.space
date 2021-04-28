@@ -10,11 +10,11 @@ NOTE: Mongodb is the database but its been commented due to the easy to use of t
 
 ## More of my games like this:
 #http://pury.space
-#http://ufowars.space
-#http://sperms.space
-#http://kalamebaz.space
-#http://cyberbugs.space
-#http://aliens.website
+#https://lastwar.herokuapp.com/
+#https://sperms.herokuapp.com/
+#https://kalamebazspace.herokuapp.com/
+#https://antclone.herokuapp.com/
+#https://ufowarspace.herokuapp.com/
 
 ## How to run:
 Install nodejs
