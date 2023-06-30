@@ -9,12 +9,7 @@ This game is made by Nodejs/Javascript/Socket.io/HTML5/P5js/Victorjs/WEBGL?Mongo
 NOTE: Mongodb is the database but its been commented due to the easy to use of the code for the others, the Leaderboard for the game will be up and running as soon as possible.
 
 ## More of my games like this:
-#http://pury.space
-#https://lastwar.herokuapp.com/
-#https://sperms.herokuapp.com/
-#https://kalamebazspace.herokuapp.com/
-#https://antclone.herokuapp.com/
-#https://ufowarspace.herokuapp.com/
+https://github.com/Devlogerio?tab=repositories
 
 ## How to run:
 Install nodejs
