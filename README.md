@@ -1,4 +1,6 @@
-# sperms.space
+Play now: https://spermsonline-3114c8ccdd46.herokuapp.com/
+
+# Sperms Online
 This is the race of life! Race as sperm in a vagina with hundreds of other players, try to reach the egg, and name your baby! This is an online multiplayer .io game.
 
 ## How to play
