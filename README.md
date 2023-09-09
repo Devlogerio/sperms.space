@@ -20,7 +20,8 @@ https://github.com/Devlogerio?tab=repositories
 
 ## Contact:
 Made by: Cena Abachi  
-Mail: devloger.io@gmail.com 
-Youtube: Devlogerio
-Twitch: Devlogerio
-Instagram: Devlogerio
+Gmail: devloger.io@gmail.com *** 
+Youtube: https://www.youtube.com/@devlogerio8016)https://www.youtube.com/@devlogerio8016 *** 
+Twitch: https://www.twitch.tv/devlogerio)https://www.twitch.tv/devlogerio *** 
+Instagram: (https://www.instagram.com/devlogerio/?hl=en)https://www.instagram.com/devlogerio/?hl=en *** 
+LinkedIn: https://www.linkedin.com/in/cena-abachi/?originalSubdomain=ir *** 
