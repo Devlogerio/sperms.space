@@ -1,4 +1,4 @@
-
+// Made by Cena Abachi Known as Devlogerio, find me on Youtube, Instagram, and Github: Devlogeiro LinkedIn: Cena Abachi, devloger.io@gmail.com
 var rooms = ["ir"]; // all the rooms sperms can access //["ir"],"us","eu"]
 
 // checks if the string is really an string and there is no empty spaces
