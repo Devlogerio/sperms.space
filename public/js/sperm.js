@@ -1,3 +1,4 @@
+// Made by Cena Abachi Known as Devlogerio, find me on Youtube, Instagram, and Github: Devlogeiro LinkedIn: Cena Abachi, devloger.io@gmail.com
 // 87 meter house in Tehran/ 75 meter house in Karaj/ 250 meter villa in north Iran, 350 mett villa
 // we have a rented place for cats as well (petshop, 90 meters)
 var Tail = function(length) {
