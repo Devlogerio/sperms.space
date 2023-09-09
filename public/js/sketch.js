@@ -1,4 +1,4 @@
-
+// Made by Cena Abachi Known as Devlogerio, find me on Youtube, Instagram, and Github: Devlogeiro LinkedIn: Cena Abachi, devloger.io@gmail.com
 var myId = ''; // stores the id of the connected sperm (the controller of the player)
 var mouseLocation = 0; // stores the location of the mouse each frame and its a vector not number
 var planeSize = {width: 5000, height: 5000};
