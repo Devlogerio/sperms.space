@@ -1,3 +1,4 @@
+// Made by Cena Abachi Known as Devlogerio, find me on Youtube, Instagram, and Github: Devlogeiro LinkedIn: Cena Abachi, devloger.io@gmail.com
   // This is th class or object of the sperm
   var Jammer = function(initPack){
     var self = {};
