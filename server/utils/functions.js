@@ -1,3 +1,4 @@
+// Made by Cena Abachi Known as Devlogerio, find me on Youtube, Instagram, and Github: Devlogeiro LinkedIn: Cena Abachi, devloger.io@gmail.com
 const Victor = require('victor');
 
 // limits a vector to a certain amount of magnitud
